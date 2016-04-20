@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operarecensuitri06libauoft_0007.png"; bbox 0 0 1900 3088; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 524 1146 1515 1381">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 524 1146 1515 1381">
+     <span class='ocr_line' id='line_1_1' title="bbox 524 1146 1511 1218; baseline -0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 524 1146 985 1218; x_wconf 80' lang='lat' dir='ltr'>HENRIOO</span> <span class='ocrx_word' id='word_1_2' title='bbox 1042 1149 1511 1218; x_wconf 77' lang='lat' dir='ltr'>LEBEGUE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 535 1312 1515 1381; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 535 1314 1042 1381; x_wconf 81' lang='lat' dir='ltr'><strong>EDUARDO</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1111 1312 1515 1381; x_wconf 74' lang='lat' dir='ltr'>SOHEER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1005 1615 1051 1663">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1005 1615 1051 1663">
+     <span class='ocr_line' id='line_1_3' title="bbox 1005 1615 1051 1663; baseline -0.022 0"><span class='ocrx_word' id='word_1_5' title='bbox 1005 1615 1051 1663; x_wconf 84' lang='lat' dir='ltr'><strong>S.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
